@@ -1,4 +1,3 @@
-   Abulkosim Kataev 
 
 [rsschool-cv](https://abulkosim.github.io/rsschool-cv/)
 -------------------------------------------------------

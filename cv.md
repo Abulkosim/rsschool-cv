@@ -33,12 +33,12 @@ Skills
 Code Examples
 -------------
 
-          function digital\_root(n){
+          function digital_root(n){
             let sum = 0;
             String(n).split('').map(num => {
               sum += Number(num);
             });
-            return sum > 9 ? digital\_root(sum) : sum;
+            return sum > 9 ? digital_root(sum) : sum;
           }
         
 
@@ -55,7 +55,7 @@ Education
 
 *   INHA University in Tashkent 2020-2024
 *   Najot Ta'lim Educational Center (Foundation)
-*   One Month: Learn to Code | HTML & CSS (finished)
+*   One Month: Learn to Code HTML & CSS (finished)
 *   CS50 Introduction to Computer Science
 *   FreeCodeCamp Responsive Web Design (finished)
 *   Udemy Course HTML/CSS from the Beginning (finished)
@@ -69,11 +69,10 @@ Languages
 *   English
 *   Russian
 *   Uzbek
-*   Tadjik
 
 English
 -------
 
 *   IELTS 7.5
 *   CEFR C1
-*   EPAM Test Result: C1(Advanced)
+*   EPAM Test Result: C1 (Advanced)

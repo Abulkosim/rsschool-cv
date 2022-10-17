@@ -1,1 +1,1 @@
-https://abulkosim.github.io/rsschool-cv/cv
+https://abulkosim.github.io/rsschool-cv
